@@ -744,3 +744,25 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #2196f3;
 }
+
+span {
+    color: hsla(29, 100%, 100%, 1);
+    font-size: 4vw;
+    float: left;
+    padding: 1vw;
+    -webkit-transition: -webkit-transform .4s ease-in-out;
+    transition: transform .4s ease-in-out;
+}
+
+h4 {
+    color: hsl(0, 0%, 100%);
+    display: inline-block;
+    float: left;
+    margin: 0;
+    padding: 1vw 3vw 1vw;
+    font-size: 2vw;
+}
+
+.text-contact{
+  padding-top: 2vw;
+}
