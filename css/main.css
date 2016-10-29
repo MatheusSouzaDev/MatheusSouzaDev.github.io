@@ -754,7 +754,7 @@ span {
     transition: transform .4s ease-in-out;
 }
 
-h4 {
+#contact h4 {
     color: hsl(0, 0%, 100%);
     display: inline-block;
     float: left;
