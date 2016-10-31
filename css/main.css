@@ -226,9 +226,9 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/home.jpg');
-  background-repeat: no-repeat;
+  background: hsl(220, 93%, 6%) url('../img/home.jpg') no-repeat fixed 0 0 / cover;
   background-attachment: scroll;
+  background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
